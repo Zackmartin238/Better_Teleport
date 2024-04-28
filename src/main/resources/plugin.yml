@@ -1,0 +1,9 @@
+name: better_teleport
+version: '${project.version}'
+main: me.zackmartin238.better_teleport.Better_teleport
+api-version: '1.20'
+commands:
+  teleport_forward8:
+    description: A simpler way to teleport. Usage is /teleport_forward8.
+    usage: /teleport_forward
+    permission: better_teleport.tpforward
